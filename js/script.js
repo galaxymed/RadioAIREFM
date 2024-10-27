@@ -1,6 +1,6 @@
 
 
-const RADIO_NAME = 'Game! Radio 1';
+const RADIO_NAME = 'Aire FM';
 
 // SELECT ARTWORK PROVIDER, ITUNES, DEEZER & SPOTIFY  eg : spotify 
 var API_SERVICE = 'deezer';
